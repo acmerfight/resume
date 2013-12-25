@@ -14,7 +14,7 @@
     *   熟悉基本的数据结构和算法  
         证据： 大学曾参加ACM亚洲区域赛  
 3.  写代码能力
-    *   多次向开源项目贡献代码，github[https://github.com/acmerfight]证明一切。
+    *   多次向开源项目贡献代码，https://github.com/acmerfight证明一切。
 
 ##### 工作经历：
 1.  百姓网
