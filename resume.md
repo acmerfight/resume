@@ -7,6 +7,7 @@
     *   擅长Python, 对Python有较为深刻的理解。  
     *   了解C语言能看懂C语言的代码。  
         证据： 读过部分Python的实现源码,包括list, tuple, dict 等
+               我的blog  http://jianshu.io/users/1GdBU6
 
 2.  计算机基础
     *   读完《深入理解计算机系统》正在补充读书笔记。以程序员的角度了解计算机的底层运行机制。  
